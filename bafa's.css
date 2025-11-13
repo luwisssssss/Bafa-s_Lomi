@@ -156,49 +156,6 @@ section {
         line-height: 1.6;
     }
 
-.why-choose {
-    background-color: #cbcbcb;
-}
-
-    .why-choose .boxes {
-        display: flex;
-        justify-content: center;
-        gap: 75px;
-        flex-wrap: wrap;
-        margin-top: 40px;
-    }
-
-    .why-choose .box {
-        background-color: white;
-        padding: 30px 20px;
-        border-radius: 15px;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-        width: 350px;
-        transition: transform 0.3s ease;
-        text-align: center;
-    }
-
-        .why-choose .box:hover {
-            transform: translateY(-5px);
-        }
-
-        .why-choose .box i {
-            color: #000000;
-            margin-bottom: 15px;
-        }
-
-        .why-choose .box h3 {
-            font-size: 1.5rem;
-            margin-bottom: 15px;
-            color: #000000;
-        }
-
-        .why-choose .box p {
-            font-size: 16px;
-            color: #333;
-            line-height: 1.5;
-        }
-
 .aboutpage {
     background: url('bafas about.jpg') no-repeat center;
     background-size: cover;
@@ -307,3 +264,4 @@ form {
         margin-bottom: 20px;
     }
 }
+
